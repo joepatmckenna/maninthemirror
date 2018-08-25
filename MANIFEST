@@ -2,5 +2,5 @@
 README.md
 setup.py
 version
-pipe/__init__.py
-pipe/ohmrcv.py
+maninthemirror/__init__.py
+maninthemirror/ohmrcv.py
