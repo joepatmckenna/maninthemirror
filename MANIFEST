@@ -3,4 +3,5 @@ README.md
 setup.py
 version
 maninthemirror/__init__.py
-maninthemirror/ohmrcv.py
+maninthemirror/ohmrcv_l1_gd.py
+maninthemirror/ohmrcv_svd.py
